@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{45D9C630-AFB2-416C-8C7C-73E4976F9F85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetapi/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="dotnetapi/Properties/launchSettings.json" Line="24" Column="35" />
+      <File FileName="dotnetapi/Models/TodoItem.cs" Line="4" Column="2" />
+      <File FileName="dotnetapi/Models/TodoContext.cs" Line="15" Column="2" />
+      <File FileName="dotnetapi/Startup.cs" Line="1" Column="14" />
+      <File FileName="dotnetapi/Controllers/TodoController.cs" Line="104" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetapi" expanded="True">
+            <Node name="dotnetapi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotnetapi PreferredExecutionTarget="/Users/harrystead/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

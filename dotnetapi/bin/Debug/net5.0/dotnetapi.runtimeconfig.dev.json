@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/harrystead/.dotnet/store/|arch|/|tfm|",
+      "/Users/harrystead/.nuget/packages"
+    ]
+  }
+}
